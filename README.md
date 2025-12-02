@@ -8,4 +8,6 @@ Michel Montes
         
 Carlos Eduardo Santos
 
+Igor Diorran Ferreira Maciel
+
 Atividade 1: Lista Duplamente Encadeada | Entrega: 25/11/2025
